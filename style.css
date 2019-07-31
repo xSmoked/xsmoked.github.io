@@ -1,0 +1,19 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: lightcoral;
+}
+
+h1 {
+  font-family: arial;
+  color: blue;
+  text-align: right;
+  font-size: 40px;
+  
+  }
+p1{
+  color: black;
+  font-size: 20px;
+}
