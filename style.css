@@ -6,14 +6,51 @@ body {
   background-color: lightcoral;
 }
 
+header{
+  font-family: arial;
+  color: black;
+  text-align: center;
+  font-size: 75px;
+  
+}
+
 h1 {
   font-family: arial;
-  color: blue;
-  text-align: right;
+  color: black;
+  text-align: center;
   font-size: 40px;
   
   }
 p1{
   color: black;
   font-size: 20px;
+}
+
+.containers{
+  width:100%;
+  float:left;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+}
+.squares{
+  min-height: 90%;
+  width: 96%;
+  background-color:	#FE5440;
+  display: inline-block;	
+  float: left;		
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+#green-square{
+  
+  background-color: #64F3D5;
+  
+}
+#kanna-dancing {
+  height: 200px;
+  background-color: blue;
+  border-radius: 0px;
+  text-align: right;
 }
